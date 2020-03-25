@@ -1,0 +1,2 @@
+# blog-post
+First djangoproject
